@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers
+flwr
+opencv-python
+gradio
+chore: initialize project dependencies and requirement tracking
