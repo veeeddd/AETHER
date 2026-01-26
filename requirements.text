@@ -1,0 +1,11 @@
+# --- Intelligence Layer ---
+torch
+torchvision
+transformers
+
+# --- Security & Federated Layer ---
+flwr
+
+# --- Infrastructure & UI ---
+opencv-python
+gradio
