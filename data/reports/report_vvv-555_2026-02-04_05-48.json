@@ -1,0 +1,8 @@
+{
+    "project": "AETHER",
+    "patient_id": "vvv-555",
+    "date": "2026-02-04_05-48",
+    "source_image": "sample_xray (12).png",
+    "ai_analysis": "In the image, there is a chest X-ray showing the ribcage and lungs. The lungs appear to be slightly distorted, which could indicate a medical condition or an issue with the radiographic technique. The chest X-ray also reveals the ribcage, which is a bony structure that surrounds the lungs. The ribcage is composed of seven distinct bones, including the spine, sternum, and thoracic vertebrae. The presence of these bones in the chest area suggests that the X-ray is a radiographic image of the human body, specifically focusing on the lungs and ribcage.",
+    "status": "Finalized"
+}
